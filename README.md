@@ -11,3 +11,6 @@
 - poetry.lock – Dependency lock file for reproducibility with Poetry.
 
 - Crypto Hedge Fund Concept.pdf – Concept presentation (Part 1) describing the hedge fund model, risk, portfolio management, and architecture.
+
+
+#### LOADED DATA here in zip: https://drive.google.com/file/d/19CX0iPFJVAbu6PcwxWnQdvig91zkQyCR/view?usp=sharing
